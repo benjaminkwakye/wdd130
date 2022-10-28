@@ -165,6 +165,7 @@ nav a {
 }
 main section img {
     box-sizing: border-box;
+    grid-template-columns: 10fr;
 }
 
 footer p {
