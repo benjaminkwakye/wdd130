@@ -39,9 +39,9 @@ nav {
     justify-content: space-around;
 }
 nav a:hover {
-    background-color: black;
+    background-color: rgb(145, 142, 142);
     text-align: center;
-    padding: 35px;
+    padding: 20px;
 }
 
 .book {
@@ -54,7 +54,7 @@ nav a:hover {
 }
 .join{
     background-color: #fcfbfb; 
-    padding: 15px 30px;
+    
     margin-top: 50px;
 }
 
